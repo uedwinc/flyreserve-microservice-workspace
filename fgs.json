@@ -1,9 +1,9 @@
 {
   "ms-flights" : {
-    "url"  : "https://github.com/implementing-microservices/ms-flights"
+    "url"  : "https://github.com/uedwinc/flyreserve-ms-flights"
   },
 
   "ms-reservations" : {
-    "url" : "https://github.com/implementing-microservices/ms-reservations"
+    "url" : "https://github.com/uedwinc/flyreserve-ms-reservations"
   }
 }

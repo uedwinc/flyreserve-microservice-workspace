@@ -1,4 +1,4 @@
-project:=msupandrunning
+project:=flyreserve
 
 ifeq ($(OS),Windows_NT)
 	CHECKOUT_BIN:=bin/checkout.exe
